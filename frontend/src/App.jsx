@@ -12,12 +12,12 @@ import Contact from "@/pages/Contact";
 import CheckoutSuccess from "@/pages/CheckoutSuccess";
 
 import AdminLogin from "@/pages/AdminLogin";
-import AdminLayout from "@/pages/admin/AdminLayout";
-import AdminOverview from "@/pages/admin/AdminOverview";
-import AdminProducts from "@/pages/admin/AdminProducts";
-import AdminOrders from "@/pages/admin/AdminOrders";
-import AdminTestimonials from "@/pages/admin/AdminTestimonials";
-import AdminSiteContent from "@/pages/admin/AdminSiteContent";
+import AdminLayout from "@/pages/Admin/AdminLayout";
+import AdminOverview from "@/pages/Admin/AdminOverview";
+import AdminProducts from "@/pages/Admin/AdminProducts";
+import AdminOrders from "@/pages/Admin/AdminOrders";
+import AdminTestimonials from "@/pages/Admin/AdminTestimonials";
+import AdminSiteContent from "@/pages/Admin/AdminSiteContent";
 
 export default function App() {
   return (
